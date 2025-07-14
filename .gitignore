@@ -1,0 +1,7 @@
+# Ignore large dataset and backup files (now hosted on Hugging Face)
+data/elliptic_raw/AddrAddr_edgelist.csv
+data/elliptic_raw/txs_features.csv
+data/elliptic_raw/wallets_classes.csv
+data/elliptic_raw/wallets_features.csv
+data/elliptic_raw/wallets_features_classes_combined.csv
+backups/20250628_224707/data_backup.tar.gz 
